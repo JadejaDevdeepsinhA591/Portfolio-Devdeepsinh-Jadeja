@@ -31,7 +31,7 @@ If you want to contact me, you can reach me through below handles.
 
 </div>
 
-© 2021 Devdeepsinh Jadeja
+© 2025 Devdeepsinh Jadeja
 
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)]
