@@ -131,7 +131,7 @@ header .navbar ul li a {
     transition: .2s;
 }
 
-    header .navbar ul li a.active,
+    header .navbar ul li a.active, 
     header .navbar ul li a:hover {
         color: #011aff;
         border-bottom: .2rem solid #011aff;
@@ -868,7 +868,7 @@ header .navbar ul li a {
     }
 
         .work .box-container .box {
-            flex: 1 1 30rem;
+            flex: 1 1 23%;
             border-radius: .5rem;
             box-shadow: 0 .5rem 1rem rgba(0,0,0,.1);
             position: relative;
