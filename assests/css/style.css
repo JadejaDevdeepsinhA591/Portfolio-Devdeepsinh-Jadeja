@@ -883,16 +883,17 @@ header .navbar ul li a {
             }
 
             .work .box-container .box.covid img {
-                width: 42rem;
-                height: 27rem;
+                width: 46rem;
+                height: 22rem;
+                margin-top: 15px;
             }
             .work .box-container .box.edu_resource img {
                 width: 56rem;
                 height: 26rem;
             }
             .work .box-container .box.portfolio img {
-                width: 50rem;
-                height: 26rem;
+                width: 51rem;
+                height: 29rem;
             }
 
 
@@ -900,9 +901,9 @@ header .navbar ul li a {
                 height: 100%;
                 width: 100%;
                 position: absolute;
-                top: 85%;
+                top: 82%;
                 left: 0;
-                background: rgba(255, 255, 255, 0.9);
+                background: #ffd900;
                 display: flex;
                 flex-direction: column;
             }
@@ -912,18 +913,18 @@ header .navbar ul li a {
                     flex-direction: row;
                     justify-content: space-between;
                     align-items: center;
-                    height: 4.5rem;
+                    height: 5.5rem;
                     width: 100%;
                     padding-left: 1rem;
                     background: #ffd900;
                 }
 
                     .work .box-container .box .content .tag h3 {
-                        font-size: 2rem;
+                        font-size: 1.7rem;
                     }
 
             .work .box-container .box:hover .content {
-                top: 25%;
+                top: 29%;
             }
 
     .work .desc {
@@ -931,6 +932,7 @@ header .navbar ul li a {
         display: flex;
         flex-direction: column;
         justify-content: center;
+        margin-top: 0;
     }
 
         .work .desc p {
@@ -1092,6 +1094,14 @@ header .navbar ul li a {
         font-size: 1.3rem;
         padding-top: 1.5rem;
         padding-left: 1.5rem;
+    }
+
+    .experience .content.myregistry .tag {
+        display: flex;
+        width: 100%;
+        max-width: 100%;
+        gap: 7px;
+        flex-direction: row;
     }
 
     .experience .content .desc {
